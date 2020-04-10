@@ -4455,14 +4455,23 @@ var Index = function Index() {
       lineNumber: 7,
       columnNumber: 13
     }
-  }, "Home"));
+  }, "Home"), __jsx("a", {
+    href: "/api/login",
+    className: "py-4 px-2 rounded bg-pink-800 font-bold text-white shadow-xl block w-1/4 text-center mx-auto houve:shadow",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 13
+    }
+  }, "Comece por aqui"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*******************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fmoises%2Fprojetos%2Fmydailystatus%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************/
@@ -4485,5 +4494,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

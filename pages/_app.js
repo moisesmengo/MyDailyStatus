@@ -7,9 +7,9 @@ const App = ({ Component, pageProps }) => {
     return (
         <div>
             <Header />
-            <div className='min-h-screen container mx-auto'>
-                <Component {...pageProps} />
-            </div>
+                <div className='min-h-screen vaicarai mx-auto'>
+                    <Component {...pageProps} />
+                </div>
             <Footer/>         
         </div>
     )

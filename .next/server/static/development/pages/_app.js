@@ -1997,19 +1997,19 @@ const App = ({
       columnNumber: 13
     }
   }), __jsx("div", {
-    className: "min-h-screen container mx-auto",
+    className: "min-h-screen vaicarai mx-auto",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10,
-      columnNumber: 13
+      columnNumber: 17
     }
   }, __jsx(Component, _extends({}, pageProps, {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11,
-      columnNumber: 17
+      columnNumber: 21
     }
   }))), __jsx(_components_Footer__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __self: undefined,
